@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hola, I am [Saumya Pandey]👋
+<br>
+<br>
 
-<!--
-**psaumya614/psaumya614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**psaumya614/psaumya614**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+- 🔭 I’m currently working on ReactJs, AngularJs.
+- 🌱 I’m currently learning web 3.0.
+- 🤔 I’m looking for help with career guidance.
+- 💬 Ask me about Full stack Development or any tech releted stuff.
+- 📫 How to reach me: (Linkedin- @saumya-pandey)(https://www.linkedin.com/in/saumya-pandey-53809215b/)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I would love to work with the same minded people like me as a team.
+
