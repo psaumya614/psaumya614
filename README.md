@@ -8,8 +8,8 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on ReactJs, AngularJs.
-- 🌱 I’m currently learning web 3.0.
+- 🔭 I’m currently working on HTML, CSS, JS.
+- 🌱 I’m currently learning Full stack development with web3.0.
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full stack Development or any tech releted stuff.
 - 📫 How to reach me: (Linkedin- @saumya-pandey)(https://www.linkedin.com/in/saumya-pandey-53809215b/)
