@@ -8,7 +8,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on HTML, CSS, JS.
+- 🔭 I’m currently working on ReactJs.
 - 🌱 I’m currently learning Full stack development with web3.0.
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about Full stack Development or any tech releted stuff.
